@@ -1,0 +1,3 @@
+[submodule "quickstart/themes/pure"]
+	path = quickstart/themes/pure
+	url = https://github.com/xiaoheiAh/hugo-theme-pure.git

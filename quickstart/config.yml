@@ -202,3 +202,4 @@ params:
     - tag
     - recent_posts
 
+ignoreErrors: "error-missing-instagram-accesstoken"
